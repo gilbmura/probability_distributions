@@ -1,4 +1,4 @@
-# Bayesian Probability Results — Part 2
+# Bayesian Probability Results 
 
 | Keyword | Category | Prior P(Positive) | Likelihood P(kw\|Positive) | Marginal P(kw) | Posterior P(Positive\|kw) |
 |---------|----------|--------------------|------------------------------|-----------------|-----------------------------|
