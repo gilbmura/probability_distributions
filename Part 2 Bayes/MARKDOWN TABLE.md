@@ -11,7 +11,7 @@
 | funny | CONTROL | 0.5000 | 0.000357 | 0.000394 | 0.453 |
 
 **Reading the table:**
-- **Prior** `P(Positive)` — baseline probability any review is positive (50% by dataset construction).
-- **Likelihood** `P(keyword\|Positive)` — fraction of all words in positive reviews that are this keyword.
-- **Marginal** `P(keyword)` — average number of times this keyword appears per review, across the whole dataset.
-- **Posterior** `P(Positive\|keyword)` — updated probability a review is positive, given that the keyword appeared. This is the only conditional probability the assignment asks for; `P(Negative\|keyword)` is intentionally not computed.
+- **Prior** `P(Positive)` means baseline probability any review is positive (50% by dataset construction).
+- **Likelihood** `P(keyword\|Positive)` means fraction of all words in positive reviews that are this keyword.
+- **Marginal** `P(keyword)` means average number of times this keyword appears per review, across the whole dataset.
+- **Posterior** `P(Positive\|keyword)` means updated probability a review is positive, given that the keyword appeared. This is the only conditional probability the assignment asks for; `P(Negative\|keyword)` is intentionally not computed.
