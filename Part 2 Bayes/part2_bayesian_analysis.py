@@ -1,7 +1,7 @@
 # ============================================================
 # PART 2: BAYESIAN PROBABILITY - IMDb SENTIMENT ANALYSIS
 # ============================================================
-# Course: Formative 3 - Probability Distributions, Bayesian
+# Course: Probability Distributions, Bayesian
 #         Probability, and Gradient Descent Implementation
 # Author: Isimbi Selena
 # Dataset: IMDb Movie Reviews (50,000 reviews)
