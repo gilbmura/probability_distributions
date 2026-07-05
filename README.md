@@ -54,7 +54,11 @@ The main notebook is in [Part 2 Bayes/Bayesian_Code.ipynb](Part%202%20Bayes/Baye
 
 ### Part 3: Manual Gradient Descent
 
-This section shows the gradient descent process step by step using matrix operations, manual gradient calculations, and iteration tracking. The notebook also includes the handwritten or visual calculation pages used for the derivation.
+This section documents the manual gradient descent calculations and the corresponding Python implementation. The parameters are updated step by step across four iterations using matrix operations, with each iteration's gradient and MSE tracked explicitly.
+
+- The full assembled assessment, including this section, is in [Assembled Jupyter Notebook.ipynb](Assembled%20Jupyter%20Notebook.ipynb).
+- The handwritten manual calculations are in [Manual Gradient Descent Calculations (Handwritten).pdf](Manual%20Gradient%20Descent%20Calculations%20%28Handwritten%29.pdf).
+- The group contribution tracker is in [Machine Learning\_Formative3\_Cohort 3\_Group11 - 1.pdf](Machine%20Learning_Formative3_Cohort%203_Group11%20-%201.pdf).
 
 ### Part 4: Gradient Descent in Python
 
