@@ -27,9 +27,6 @@ Part 2 Bayes/
   Bayesian Analysis.pdf
 Part 3_gradient_descent/
   gradient_descent.ipynb
-  manual_calculations_page1.jpg
-  manual_calculations_page2.jpg
-  manual_calculations_page3.jpg
 part4_gradient_descent/
   Gradient_Descent.ipynb
 ```
