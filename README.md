@@ -17,8 +17,6 @@ There is also a combined notebook at the repository root that brings the full as
 ## Repository Structure
 
 ```text
-Formative_Assessment_3_Final.ipynb
-IMDB_Dataset.csv
 Part 1/
   GaltonFamilies.csv
   EM_Fathers_vs_Children.ipynb
@@ -29,6 +27,11 @@ Part 3_gradient_descent/
   gradient_descent.ipynb
 part4_gradient_descent/
   Gradient_Descent.ipynb
+Assembled Jupyter Notebook.ipynb
+Contribution tracker
+Manual Gradient Descent Calculations
+IMDB_Dataset.csv
+
 ```
 
 ## What Each Part Does
